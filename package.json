@@ -1,0 +1,11 @@
+{
+  "name": "kafka-project",
+  "version": "1.0.0",
+  "description": "kafka lerning project",
+  "main": "index.js",
+  "author": "Taha",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
